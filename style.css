@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+}
+#subtitle {
+    text-align: center;
+}
+#img-caption {
+    text-align: center;
+}
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+}
+#img-div {
+    padding: 10px;
+    background-color: antiquewhite;
+}
+main {
+    background-color: whitesmoke;
+}
+h3 {
+    text-align: center;
+}
+#bullet-points {
+    text-align: left;
+    margin: 0 auto 50 auto;
+    max-width: 550px;
+}
+#cite {
+    text-align: center;
+    font-size: 10px;
+}
